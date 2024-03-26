@@ -1,7 +1,7 @@
 # Medical Transcription Classification Project
 
 ## Overview
-This project focuses on classifying medical transcriptions into various medical specialties using advanced NLP techniques. By leveraging the RoBERTa model, we aim to accurately interpret the complex language of medical documents and categorize them based on their content.
+This project focuses on classifying medical transcriptions into various medical specialties using advanced NLP techniques. By leveraging the RoBERTa model, I aim to accurately interpret the complex language of medical documents and categorize them based on their content.
 
 ## Installation
 To set up the project environment, follow these steps:
