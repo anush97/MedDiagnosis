@@ -7,9 +7,9 @@ This project focuses on classifying medical transcriptions into various medical 
 To set up the project environment, follow these steps:
 
 1. Clone the repository: 
-```git clone <repository-url>```
+```git clone git@github.com:anush97/MedDiagnosis.git```
 2. Navigate to the project directory:
-```cd <project-directory>```
+```cd MedDiagnosis```
 3. Install the required dependencies
 ```pip install -r requirements.txt```
 
