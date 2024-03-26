@@ -38,6 +38,8 @@ The project utilizes the RoBERTa model, chosen for its advanced language underst
 ## Results
 The model's performance is evaluated using metrics such as Balanced Accuracy and F1 Score. Detailed results and analysis are provided in the Jupyter notebook included in this repository.
 
+``` Balanced Accuracy: 0.8149476155889681, F1 Score: 0.8397502524243727 ```
+
 ## Visualization
 The project includes visualizations such as the distribution of medical specialties and a confusion matrix for model evaluation. These visualizations aid in understanding the model's performance and the dataset's characteristics.
 
